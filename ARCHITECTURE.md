@@ -1,7 +1,7 @@
 # RADAR — System Architecture
 
 > High-level architecture overview. Implementation details remain proprietary.
-> RADAR evolves AKIOUD AI's open-source stack: [EnforceCore](https://github.com/akios-ai/EnforceCore) (Apache 2.0) + [akios](https://github.com/akios-ai/akios) (GPL 3.0).
+> RADAR evolves AKIOUD AI's open-source stack: [akios](https://github.com/akios-ai/akios) (GPL 3.0, Oct 2025) + [EnforceCore](https://github.com/akios-ai/EnforceCore) (Apache 2.0, Feb 2026).
 
 ---
 

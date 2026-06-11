@@ -74,14 +74,14 @@
 
 ## Prior History
 
-RADAR builds on AKIOUD AI's open-source AI governance research and development, which began in 2024.
+RADAR builds on AKIOUD AI's open-source AI governance research and development.
 
 ### Key Milestones
 - **April 2024**: AKIOUD AI incorporated (SIREN 924 929 730, INPI/RNE)
 - **September 2024**: First PII detection patterns — foundation of the detection engine
-- **October 2024**: [EnforceCore](https://github.com/akios-ai/EnforceCore) — open-source runtime enforcement library (Apache 2.0). PII masking, policy checks, Merkle audit as a decorator. 127 commits, 32 releases.
-- **January 2025**: [akios](https://github.com/akios-ai/akios) — open-source security cage for multi-agent AI (GPL 3.0). Kernel sandboxing (seccomp-bpf), 44 PII patterns, workflow orchestration. 65 commits, 32 releases. Built on EnforceCore.
-- **January 2025**: Merkle audit chain design finalized, compliance scoring engine v1
-- **July 2025**: CISO dashboard MVP
-- **March 2026**: v3.20 public release
-- **June 2026**: v3.40 — design system, conformity, notifications, test coverage
+- **October 2025**: [akios](https://github.com/akios-ai/akios) — open-source security cage for multi-agent AI (GPL 3.0). Kernel sandboxing (seccomp-bpf), 44 PII patterns, workflow orchestration. 65 commits.
+- **February 2026**: [EnforceCore](https://github.com/akios-ai/EnforceCore) — open-source runtime enforcement library (Apache 2.0). PII masking, policy checks, Merkle audit as a decorator. 127 commits, 24 releases. Extracted from akios as a standalone library.
+- **March 2026**: RADAR v3.20 public release — CISO dashboard, PII scanner (40 patterns), compliance scorer, Merkle audit trail
+- **June 2026**: RADAR v3.40 — design system, conformity assessment, notification center, 212 tests (207 passing)
+
+All dates verifiable via GitHub repository creation timestamps and INPI registration data.

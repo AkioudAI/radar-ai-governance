@@ -5,7 +5,7 @@
 
 **Continuous compliance monitoring for AI agents and LLM systems.**
 
-RADAR is the commercial evolution of AKIOUD AI's open-source AI governance stack — building on [EnforceCore](https://github.com/akios-ai/EnforceCore) (Apache 2.0, runtime enforcement) and [akios](https://github.com/akios-ai/akios) (GPL 3.0, security cage for agents).
+RADAR is the commercial evolution of AKIOUD AI's open-source AI governance stack — building on [akios](https://github.com/akios-ai/akios) (GPL 3.0, security cage for agents) and [EnforceCore](https://github.com/akios-ai/EnforceCore) (Apache 2.0, runtime enforcement).
 
 RADAR is a self-hosted, zero-cloud platform that monitors AI agents in real-time, scores them against regulations (EU AI Act, GDPR), detects PII leaks, enforces policies, and produces regulator-ready evidence packs — all from your own infrastructure.
 
@@ -56,8 +56,8 @@ RADAR is built on research and open-source work by AKIOUD AI since 2024:
 
 | Project | Type | License | Description |
 |---------|------|---------|-------------|
-| [**EnforceCore**](https://github.com/akios-ai/EnforceCore) | Open-source | Apache 2.0 | Runtime enforcement for AI agents — PII masking, policy checks, Merkle audit as a decorator |
-| [**akios**](https://github.com/akios-ai/akios) | Open-source | GPL 3.0 | Security cage for multi-agent AI — kernel sandboxing, 44 PII patterns, workflow orchestration |
+| [**akios**](https://github.com/akios-ai/akios) | Open-source | GPL 3.0 | Security cage for multi-agent AI — kernel sandboxing, 44 PII patterns, workflow orchestration. 65 commits, 32 releases. Created Oct 2025. |
+| [**EnforceCore**](https://github.com/akios-ai/EnforceCore) | Open-source | Apache 2.0 | Runtime enforcement library — PII masking, policy checks, Merkle audit as a decorator. 127 commits, 24 releases. Extracted Feb 2026. |
 | **RADAR** | Commercial | Proprietary | CISO dashboard, compliance scoring, evidence packs, regulatory pipeline |
 
 The same core technology — PII detection engine, Merkle audit chain, policy enforcement — evolved from open-source libraries into a complete compliance platform. This repository documents RADAR's architecture, features, and development history.
