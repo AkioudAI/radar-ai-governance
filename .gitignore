@@ -1,0 +1,14 @@
+# Exclude any accidentally copied source code
+node_modules/
+dist/
+.env
+*.py
+*.tsx
+*.ts
+!*.d.ts
+src/
+dashboard/
+config/
+
+# Internal strategy & legal documents — NEVER published
+.private/

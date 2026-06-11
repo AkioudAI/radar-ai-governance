@@ -1,0 +1,42 @@
+# RADAR License
+
+Copyright (c) 2024–2026 AKIOUD AI
+SIREN 924 929 730 — 8 B Rue Abel, 75012 Paris, France
+
+## Proprietary Software
+
+RADAR is proprietary software. All rights reserved.
+
+This repository is provided for **reference, transparency, and anteriority purposes only**. The source code of RADAR is not included in this repository.
+
+### What You CAN Do
+
+- Read the documentation and architecture to understand the product
+- Cite RADAR in your own compliance documentation as a tool you use
+- Reference this repository as proof of product existence and feature set
+
+### What You CANNOT Do
+
+- Reproduce, distribute, or modify the RADAR source code
+- Use the RADAR name, logo, or branding without permission
+- Create derivative works based on the architecture or documentation
+- Deploy RADAR without a valid license
+
+### Commercial Licensing
+
+To obtain a license for RADAR:
+- Visit https://www.akioud.ai
+- Contact team@akioud.ai for enterprise licensing
+
+### Open Source Components
+
+RADAR uses the following open-source libraries under their respective licenses:
+- FastAPI (MIT)
+- React (MIT)
+- SQLite (Public Domain)
+- Tailwind CSS (MIT)
+- Recharts (MIT)
+
+---
+
+© 2024–2026 AKIOUD AI. All rights reserved.
