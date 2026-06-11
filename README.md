@@ -66,8 +66,8 @@ The same core technology — PII detection engine, Merkle audit chain, policy en
 
 ## Regulations Covered
 
-- **EU AI Act** — Article 9 (risk management), 13 (transparency), 14 (human oversight), 16 (documentation)
-- **GDPR** — Article 35 (DPIA), data minimization, right to explanation
+- **EU AI Act** — Articles 9, 10, 11, 12, 13, 14, 15, 26, 61 — scoring + evidence generation
+- **GDPR** — Articles 5, 6, 17, 22, 25, 30, 32, 33, 35 — DPIA automation, data protection
 - **ISO 42001** — AI management system alignment
 - Regulatory update pipeline — automatic version checks with change diff
 
