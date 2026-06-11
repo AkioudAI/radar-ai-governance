@@ -4,7 +4,18 @@
 
 ---
 
-## v3.40 — June 2026
+## v0.1.0-alpha.1 — June 2026
+
+- **Versioning restarted**: semver adopted — replaces internal sequential numbering (v3.20→v3.40)
+- **Pre-commercial phase**: `0.x` signals pre-1.0 maturity
+- **INPI Soleau deposit**: DSO2026021562 (€15, 5 years) — anteriority proof locked
+- **Public reference repo**: AkioudAI/radar-ai-governance — 7 docs, 6 screenshots
+
+*Transition documented June 11, 2026. See VERSIONING.md for the full roadmap.*
+
+---
+
+## v3.40 — June 2026 (last internal version)
 
 ### Dashboard
 - Complete design system refactoring — neutral palette, design tokens, dark/light mode
